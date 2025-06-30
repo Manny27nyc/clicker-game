@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { CreateProfile } from "./CreateProfile";
 export { StatsInfo } from "./StatsInfo";
 export { Shop } from "./Shop";

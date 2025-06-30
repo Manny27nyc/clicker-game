@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useState, useEffect } from "react";
 /**
 A custom React hook that returns a stateful value and a function to update it, and persists the value in localStorage.

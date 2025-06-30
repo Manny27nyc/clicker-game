@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect, useState } from "react";
 /**
  * A custom hook that listens for key down events on the document object.

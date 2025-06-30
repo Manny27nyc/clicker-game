@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { formatNumber, compactFormat } from "./formatNumber";
 export { nameToAvatar } from "./nameToAvatar";
 export { formatTimeAgo } from "./formatTimeAgo";

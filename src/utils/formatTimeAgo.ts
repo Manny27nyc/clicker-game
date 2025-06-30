@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Formats the time difference between the given date and the current date
  * in a human-readable format (e.g., "5d ago", "1h ago", "30m ago").

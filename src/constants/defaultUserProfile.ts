@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { User } from "../types/user";
 /**
  * The default user profile object.

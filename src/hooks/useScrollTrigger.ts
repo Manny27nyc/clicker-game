@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useState, useEffect } from "react";
 /**
 A custom hook that triggers a boolean flag when the user scrolls down past a certain Y position.
